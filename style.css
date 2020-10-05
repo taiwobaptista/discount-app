@@ -1,0 +1,181 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    background-color: rgb(73, 71, 73);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#container{
+    padding:50px;
+    height:550px;
+    background-image: brown, url("images/bg-image.jpg");
+    background-size: cover;
+    
+}
+#calculator{
+    width:600px;
+    margin:auto;
+    background-color: grey;
+    text-align:center;
+    height:500px;
+    padding-top:10px;
+    border-radius: 30px;
+    
+    
+    
+}
+#innerDiv1{
+    width:500px;
+    margin-top:10px;
+    margin-bottom:20px;
+    margin-left: 50px;
+   
+}
+#innerDiv2{
+    width:500px;
+    margin-top:20px;
+    margin-bottom:20px;
+    text-align:center;
+    margin:auto;
+   
+}
+#chooseProduct1{
+    padding:10px;
+}
+#chooseProduct2{
+    padding:10px;
+}
+#chooseProduct3{
+    padding:10px;
+}
+
+#priceselect{
+    width:50px;
+    margin:auto;
+}
+#priceSelecta{
+
+    padding:10px;
+    margin:auto;
+    border:none;
+
+}
+#priceSelectb{
+
+    padding:10px;
+    margin:auto;
+    border:none;
+
+}
+#priceSelectc{
+
+    padding:10px;
+    margin:auto;
+    border:none;
+
+}
+#display{
+    background-color: darkolivegreen;
+    padding:10px;
+    margin-top:20px;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    color:white;
+    padding-top:20px;
+   
+}
+.inp{
+ margin:10px;
+ border-radius:20px;
+ border:none;
+ height:40px;
+ text-align:center;
+ font-family:Arial, Helvetica, sans-serif;
+}
+#btnCalc{
+    margin-top:10px;
+    height:50px;
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    border-radius: 20px;
+    border:none;
+    border-bottom:2px solid aqua; 
+
+}
+#btnCalc:hover {
+    background-color:green;
+    color:white;
+    font-weight: bold;
+    
+   
+}
+#btnCalc:active{
+    margin-top:1px;
+}
+
+h4{
+    margin:10px;
+}
+#btnCalc1{
+    margin-top:10px;
+    height:50px;
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    border-radius: 20px;
+    border:none;
+    border-bottom:2px solid aqua; 
+
+}
+#btnCalc2{
+    margin-top:10px;
+    height:50px;
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+    border-radius: 20px;
+    border:none;
+    border-bottom:2px solid aqua; 
+
+}
+#opt1{
+    margin-top:10px;
+    height:30px;
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    border-radius: 20px;
+    border:none;
+    border-bottom:2px solid aqua; 
+
+
+}
+#opt2{
+    margin-top:10px;
+    height:30px;
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    border-radius: 20px;
+    border:none;
+    border-bottom:2px solid aqua; 
+
+
+}
+#opt3{
+    margin-top:10px;
+    height:30px;
+    width:100px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    border-radius: 20px;
+    border:none;
+    border-bottom:2px solid aqua; 
+
+
+}
